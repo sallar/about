@@ -1,6 +1,10 @@
-# about
+# About Me
 
-About Me
+I'm a 28 years old software engineer based in Helsinki, Finland. I'm originally from Iran and have been living and working in Finland since 2015. I'm the co-creator of [Buttercup](https://buttercup.pw) and co-founder of MadDev, a company that my friend and colleague ([Perry](https://perrymitchell.net) and I have founded together as a result of creating Buttercup. I'm also the Lead Engineer in [Tieto](https://www.tieto.com/) as my day job.
+
+This repo is meant to give you an idea about my work and career as a programmer, and more importantly, a place to remind myself of things that matter to me.
+
+This document is a Work in Progress. I doubt that it will be an interest to anyone but myself, but if you're curious, you can watch the repo for changes.
 
 ## My Software
 
@@ -17,10 +21,10 @@ About Me
 + [sqs-parallel](https://github.com/sallar/sqs-parallel) - Simple helper to work with Amazon SQS with concurrency support ⭐️
 + [country-tools](https://github.com/sallar/country-tools) - Simple helper to fetch country information (currency, name, etc) ⭐️
 + [dropbox-fs](https://github.com/sallar/dropbox-fs) - Node `fs`-like wrapper for Dropbox API ⭐️
-+ [led-matrix](https://github.com/sallar/led-matrix) - A datastore for LED Matrix displays (device agnostic)
++ [node-mac-app-icon](https://github.com/sallar/node-mac-app-icon) - Get App icons in macOS by their `pid` ⭐️
++ [led-matrix](https://github.com/sallar/led-matrix) - A datastore for LED Matrix displays (device agnostic) ⭐️
 + [led-matrix-simulator](https://github.com/sallar/led-matrix-simulator) - HTML5 LED Matrix simulator
 + [rpi-matrix](https://github.com/sallar/rpi-matrix) - A RaspberryPi LED Matrix Display program
-+ [node-mac-app-icon](https://github.com/sallar/node-mac-app-icon) - Get App icons in macOS by their `pid`
 + [i18next-sync-fs-backend](https://github.com/sallar/i18next-sync-fs-backend) - Sync `fs` backend for `i18next` 🛠
 + [styled-flexbox](https://github.com/sallar/styled-flexbox) - Flexbox tools written for `styled-components`
 + [lunchify-scraper](https://github.com/sallar/lunchify-scraper) - Scrapes Finnish restaurants lunch menus
