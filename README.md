@@ -52,3 +52,10 @@ This document is a Work in Progress. I doubt that it will be an interest to anyo
 ***
 
 👉 [And many more forks, hobbies and experiments...](https://github.com/sallar?tab=repositories)
+
+## My Writing
+
++ [Blog](https://sallar.me)
++ [Blog in Persian](https://sallar.me/farsi) - Since 2004
++ [Medium Account](https://medium.com/@sallar) - Not very active
+
