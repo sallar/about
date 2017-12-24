@@ -11,7 +11,7 @@ This document is a Work in Progress. I doubt that it will be an interest to anyo
 + **JavaScript** (and it's family) is my main programming language and I use it at work and for my own projects too. I especially like the typed variations of JavaScript (namely Typescript and Flow) and I use NodeJS for systems programming and embedded systems too.
 + **Rust**. I have been learning and experimenting with Rust for a while. I'll be using it for systems/server programming.
 + **Swift**. I learned Swift a while back to make my own native iOS app. I've been using it here and there for solving some problems.
-+ **PHP**. Before the Javascript revolution (2009+), I was a full-time php developer for many years. Github wasn't popular (and didn't exist) back then so I don't have much to show for it except the infamous [JDateTime](https://github.com/sallar/jDateTime) which is now deprectaed.
++ **PHP**. Before the Javascript revolution (2009+), I was a full-time php developer for many years. Github wasn't popular (and didn't exist) back then so I don't have much to show for it except the infamous (and now deprecated) [JDateTime](https://github.com/sallar/jDateTime).
 
 And many more languages that I had to learn and experiment with during my years as a programmer. Notably **Java**, **QBasic**, **Visual Basic** and **C#**. I'm open to learning new tools and languages and I appreciate good code in any language. But for the time being, my languages of choice will remain JS and Rust.
 
