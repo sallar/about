@@ -14,6 +14,7 @@ This document is a Work in Progress. I doubt that it will be an interest to anyo
   * [Swift](#swift)
   * [VSCode Extensions &amp; Themes](#vscode-extensions--themes)
   * [PHP](#php)
+* [Active Contributions](#active-contributions)
 * [My Writing](#my-writing)
 
 ## Programming Languages
@@ -71,6 +72,13 @@ And many more languages that I had to learn and experiment with during my years 
 ---
 
 👉 [And many more forks, hobbies and experiments...](https://github.com/sallar?tab=repositories)
+
+## Active Contributions
+
+The projects I actively contribute to, or manage and maintain:
+
+* [Buttercup](https://github.com/buttercup) - Buttercup is a free and open source password manager for Desktop, Mobile ad Browsers. Perry and I have been working on Buttercup since September 2015.
+* [Kap](https://github.com/wulkano/kap) - Screen recorder for Mac. 
 
 ## My Writing
 
