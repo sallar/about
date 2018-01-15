@@ -77,7 +77,7 @@ And many more languages that I had to learn and experiment with during my years 
 
 The projects I actively contribute to, or manage and maintain:
 
-* [Buttercup](https://github.com/buttercup) - Buttercup is a free and open source password manager for Desktop, Mobile ad Browsers. Perry and I have been working on Buttercup since September 2015.
+* [Buttercup](https://github.com/buttercup) - Buttercup is a free and open source password manager for Desktop, Mobile and Browsers. Perry and I have been working on Buttercup since September 2015.
 * [Kap](https://github.com/wulkano/kap) - Screen recorder for Mac. 
 
 ## My Writing
