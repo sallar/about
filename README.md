@@ -46,6 +46,7 @@ And many more languages that I had to learn and experiment with during my years 
 * [led-matrix](https://github.com/sallar/led-matrix) - A datastore for LED Matrix displays (device agnostic) ⭐️
 * [led-matrix-simulator](https://github.com/sallar/led-matrix-simulator) - HTML5 LED Matrix simulator
 * [rpi-matrix](https://github.com/sallar/rpi-matrix) - A RaspberryPi LED Matrix Display program
+* [check-os-tray-support](https://github.com/sallar/check-os-tray-support) - A tool for checking if Tray icon is available on the current OS
 * [i18next-sync-fs-backend](https://github.com/sallar/i18next-sync-fs-backend) - Sync `fs` backend for `i18next` 🛠
 * [styled-flexbox](https://github.com/sallar/styled-flexbox) - Flexbox tools written for `styled-components`
 * [lunchify-scraper](https://github.com/sallar/lunchify-scraper) - Scrapes Finnish restaurants lunch menus
