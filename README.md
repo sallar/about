@@ -1,6 +1,6 @@
 # About Me
 
-I'm a 28 years old software engineer based in Helsinki, Finland. I'm originally from Iran and have been living and working in Finland since 2015. I'm the co-creator of [Buttercup](https://buttercup.pw) and co-founder of MadDev, a company that my friend and colleague ([Perry](https://perrymitchell.net) and I have founded together as a result of creating Buttercup. I'm also the Lead Engineer in [Tieto](https://www.tieto.com/) as my day job.
+I'm a 28 years old software engineer based in Helsinki, Finland. I'm originally from Iran and have been living and working in Finland since 2015. I'm the co-creator of [Buttercup](https://buttercup.pw) and co-founder of MadDev, a company that my friend and colleague ([Perry](https://perrymitchell.net)) and I have founded together as a result of creating Buttercup. I'm also the Lead Engineer in [Tieto](https://www.tieto.com/) as my day job.
 
 This repo is meant to give you an idea about my work and career as a programmer, and more importantly, a place to remind myself of things that matter to me.
 
