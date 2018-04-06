@@ -44,7 +44,8 @@ And many more languages that I had to learn and experiment with during my years 
 * [country-tools](https://github.com/sallar/country-tools) - Simple helper to fetch country information (currency, name, etc) ⭐️
 * [dropbox-fs](https://github.com/sallar/dropbox-fs) - Node `fs`-like wrapper for Dropbox API ⭐️
 * [node-mac-app-icon](https://github.com/sallar/node-mac-app-icon) - Get App icons in macOS by their `pid` ⭐️
-* [led-matrix](https://github.com/sallar/led-matrix) - A datastore for LED Matrix displays (device agnostic) ⭐️
+* [led-matrix](https://github.com/sallar/led-matrix) - An HTML5 LED Matrix on Canvas ⭐️
+* [matrix-display-store](https://github.com/sallar/matrix-display-store) - A utility for storing graphical data in a matrix store. ⭐️
 * [led-matrix-simulator](https://github.com/sallar/led-matrix-simulator) - HTML5 LED Matrix simulator
 * [rpi-matrix](https://github.com/sallar/rpi-matrix) - A RaspberryPi LED Matrix Display program
 * [check-os-tray-support](https://github.com/sallar/check-os-tray-support) - A tool for checking if Tray icon is available on the current OS
