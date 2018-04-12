@@ -44,6 +44,7 @@ And many more languages that I had to learn and experiment with during my years 
 * [country-tools](https://github.com/sallar/country-tools) - Simple helper to fetch country information (currency, name, etc) ⭐️
 * [dropbox-fs](https://github.com/sallar/dropbox-fs) - Node `fs`-like wrapper for Dropbox API ⭐️
 * [node-mac-app-icon](https://github.com/sallar/node-mac-app-icon) - Get App icons in macOS by their `pid` ⭐️
+* [mac-local-rtmp-server](https://github.com/sallar/mac-local-rtmp-server) - A local RTMP stream server for macOS ⭐️
 * [led-matrix](https://github.com/sallar/led-matrix) - An HTML5 LED Matrix on Canvas ⭐️
 * [matrix-display-store](https://github.com/sallar/matrix-display-store) - A utility for storing graphical data in a matrix store. ⭐️
 * [led-matrix-simulator](https://github.com/sallar/led-matrix-simulator) - HTML5 LED Matrix simulator
