@@ -39,6 +39,9 @@ And many more languages that I had to learn and experiment with during my years 
 
 * [Buttercup](https://github.com/buttercup/buttercup-desktop) - Free & Open Source Password Manager ⭐️
 * [stringz](https://github.com/sallar/stringz) - Zero dependency unicode aware string manipulation library ⭐️
+* [github-contributions-chart](https://github.com/sallar/github-contributions-chart) - Generate an image of your GitHub Contributions ⭐️
+* [github-contributions-api](https://github.com/sallar/github-contributions-chart) - The API for `github-contributions-chart` ⭐️
+* [github-contributions-canvas](https://github.com/sallar/github-contributions-chart) - The canvas renderer `github-contributions-chart` ⭐️
 * [unicode-astral-regex](https://github.com/sallar/unicode-astral-regex) - Regex for matching unicode astral symbols ⭐️
 * [sqs-parallel](https://github.com/sallar/sqs-parallel) - Simple helper to work with Amazon SQS with concurrency support ⭐️
 * [country-tools](https://github.com/sallar/country-tools) - Simple helper to fetch country information (currency, name, etc) ⭐️
